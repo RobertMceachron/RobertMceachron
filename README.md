@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Robert</h1>
+<h3 align="center">A psychology student from California</h3>
 
-<!--
-**RobertMceachron/RobertMceachron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Current Projects
+- Natural Disaster Simulation - A VR research project through CSUCI
+- AngstVR - A VR exposure therapy application
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+### 🎮 Game Development
+- Unreal Engine
+- Blender
+- Gaea
+- CC4
+### 📈 Data Analysis
+- SPSS
+- R
