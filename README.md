@@ -3,7 +3,7 @@
 
 ## 💻 Current Projects
 - Natural Disaster Simulation - A VR research project through CSUCI
-- AngstVR - A VR exposure therapy application
+- Not public
 
 ## 📚 Currently Learning
 ### 🎮 Game Development
