@@ -9,4 +9,5 @@ I am a psychology major interested in data analysis and virtual reality. I curre
 - CC4
 #### 📈 Data Analysis
 - SPSS
+- Mplus
 - R
