@@ -1,0 +1,2 @@
+<h4>Hello 👋 I'm Robert</h4>
+I am a psychology major interested in neuroscience, virtual reality, and psychology. I currently develop virtual reality simulations in Unreal Engine & Unity to test responses to natural disasters at California State University Channel Islands. Through some of my courses, I learned that I also enjoy data analysis. I have experience using R, Mplus, and SPSS. If you want to learn more about me, you can do so at https://robertmceachron.com/
